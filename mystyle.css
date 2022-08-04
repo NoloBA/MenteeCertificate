@@ -41,7 +41,7 @@
   padding: 0;
 }
 .pm-empty-space {
-  height: 40px;
+  height: 30px;
   width: 100%;
 }
 body {
@@ -112,27 +112,30 @@ body {
   left: 50%;
   margin-left: -325px;
   top: 50px;
-  margin-top: 0;
+  margin-top: 0px;
 }
 .pm-certificate-container .pm-certificate-border .pm-certificate-header {
   margin-bottom: 0px;
+  padding: 0px;
 }
 .pm-certificate-container .pm-certificate-border .pm-certificate-title {
   position: relative;
-  top: 0px;
-  padding: 50px;
+  top: px;
+  bottom: 0px;
+  padding: 40px;
 }
 .pm-certificate-container .pm-certificate-border .pm-certificate-title h2 {
   font-size: 34px !important;
 }
 .pm-certificate-container .pm-certificate-border .pm-certificate-body {
   padding: 0;
+  margin-top: -100px;
 }
 .pm-certificate-container .pm-certificate-border .pm-certificate-body .pm-name-text {
-  font-size: 34px;
+  font-size: 20px;
 }
 .pm-certificate-container .pm-certificate-border .pm-earned {
-  margin: 15px 0 20px;
+  margin: 15px 90px 20px 40px;
 }
 .pm-certificate-container .pm-certificate-border .pm-earned .pm-earned-text {
   font-size: 10px;
@@ -141,13 +144,15 @@ body {
   font-size: 15px;
 }
 .pm-certificate-container .pm-certificate-border .pm-course-title .pm-earned-text {
-  font-size: 12px;
+  font-size: 15px;
 }
 .pm-certificate-container .pm-certificate-border .pm-course-title .pm-credits-text {
   font-size: 15px;
 }
 .pm-certificate-container .pm-certificate-border .pm-certified {
-  font-size: 12px;
+  font-size: 15px;
+  margin-top: 70px;
+  margin-bottom: -60px;
 }
 .pm-certificate-container .pm-certificate-border .pm-certified .underline {
   margin-bottom:35px;
