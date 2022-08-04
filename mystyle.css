@@ -17,6 +17,15 @@
   font-weight: 400;
   src: url(https://fonts.gstatic.com/s/rochester/v18/6ae-4KCqVa4Zy6Fif-UC2FHS.ttf) format('truetype');
 }
+.DisplayFlex{
+  display: ;
+}
+img{
+  width: 100px;
+  margin-left: 40%;
+  height: relative;
+  margin-bottom: 20px;
+}
 .cursive {
   font-family: "Open Sans", cursive;
 }
@@ -126,6 +135,7 @@ body {
 }
 .pm-certificate-container .pm-certificate-border .pm-certificate-title h2 {
   font-size: 34px !important;
+  margin-left: 40px;
 }
 .pm-certificate-container .pm-certificate-border .pm-certificate-body {
   padding: 0;
